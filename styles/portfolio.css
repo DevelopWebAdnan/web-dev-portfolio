@@ -160,6 +160,7 @@ main section{
 .resume-container{
     display: flex;
     gap: 24px;
+    margin-top: 100px;
 }
 .resume-column-title, .experience-title{
     font-weight: bold;
@@ -196,11 +197,11 @@ footer{
 .footer-column{
     width: 50%;
 }
-.resume-description{
+.footer-description{
     color: #474747;
 }
 
-input[type="text"], input[type="email"], textarea{
+footer input[type="text"], footer input[type="email"], footer textarea{
     height: 64px;
     border-radius: 5px;
     width: 100%;
