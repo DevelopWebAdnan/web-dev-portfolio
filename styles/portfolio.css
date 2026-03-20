@@ -184,7 +184,7 @@ main section{
     margin: 30px 5px;
 }
 
-.resume-download-cv{
+.resume-my-cv{
     margin-top: 50px;
 }
 
@@ -201,7 +201,8 @@ footer{
     color: #474747;
 }
 
-footer input[type="text"], footer input[type="email"], footer textarea{
+/* footer input[type="text"], footer input[type="email"], footer textarea{ */
+footer h3{
     height: 64px;
     border-radius: 5px;
     width: 100%;
